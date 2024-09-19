@@ -2,7 +2,11 @@
         M E N U     U I     /
         R E C U R S I V E   N A V I G A T I O N     M E N U -->
 
-
+-components
+        - data.jsx
+        - MenuItem.jsx
+        - MenuList.jsx
+        - TreeView.jsx
 
 -data.jsx
 - the top level menu items are "Home", "Profile", "Settings".
